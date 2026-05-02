@@ -8,7 +8,7 @@ A knowledge base consisting of various explorations (one per repository) for var
 Some combination of hand-written + AI assistance (especially frontend code), inspired by Simon Willison's [research codebase](https://github.com/simonw/research).
 
 Each are a public, standalone repository to keep things digestible (without much further gnawing required).
-Standalone to make it easy to re-combine in future explorations ('Take the VAD code from repo X and the ASR code from repo Y and combine to make a pipeline...').
+Standalone to make it easy to re-combine in future explorations (Prompt: 'Take the VAD code from repo X and the ASR code from repo Y and combine to make a pipeline...').
 
 ## Repositories
 
