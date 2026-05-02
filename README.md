@@ -1,5 +1,9 @@
 # gnawledges
 
+by [Nay San](https://resunay.com)
+
+## About
+
 A knowledge base consisting of various explorations (one per repository) for various things that were gnawing at me at the time.
 Some combination of hand-written + AI assistance (especially frontend code), inspired by Simon Willison's [research codebase](https://github.com/simonw/research).
 
