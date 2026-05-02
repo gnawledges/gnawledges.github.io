@@ -14,6 +14,10 @@ Standalone to make it easy to re-combine in future explorations (Prompt: 'Take t
 
 ### 2026-05-01: Standalone voice activity detection (web) app
 
+<p align="center">
+  <img src="assets/images/2026-05-01_vad-check.png" />
+</p>
+
 A not too infrequent problem that I have run into is being handed corrupted .wav files that actually have no speech in them. It would be good to have a no-frills drag-and-drop app to run voice activity detection (VAD) on someone’s laptop or locally via web app before they upload to share them. Goal was to provide someone with a dead simple drag and drop/file selection interface that would then run VAD on the selected files.
 
 - Repo: [https://github.com/gnawledges/vad-check](https://github.com/gnawledges/vad-check)
